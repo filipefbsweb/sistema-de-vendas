@@ -1,4 +1,4 @@
-# vendas
+# Projeto simples de vendas usando Vuejs 2, Vuetify e Firebase
 
 ## Project setup
 ```
